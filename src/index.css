@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.app-wrapper {
+  background: rgb(0, 115, 142);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 115, 142, 1) 0%,
+    rgba(3, 160, 255, 1) 45%,
+    rgba(0, 249, 255, 1) 100%
+  );
+}

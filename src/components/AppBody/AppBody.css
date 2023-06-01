@@ -1,0 +1,8 @@
+.todo-buttons > button > svg {
+  margin: auto;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #979494;
+}
